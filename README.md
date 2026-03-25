@@ -53,4 +53,4 @@ Streamlit is used to build interactive ML web apps easily and quickly. :contentR
 
 ---
 
-## 📂 Project Structure
+
